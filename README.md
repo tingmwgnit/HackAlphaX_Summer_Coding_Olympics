@@ -3,19 +3,19 @@
 
 Members of team 37: Mia, Mannat, and Bhuv
 
-Day 1 challenge: 
+[Day 1 Challenge]: 
 
 Create a text calculator that are capable of calculating +,-,*,/,^ between 2 numbers prompted from the user
 
 Instructions:
 
-Day 2 challenge: 
+[Day 2 Challenge]: 
 
 Update the day 1 calculator for more features, factorial and square root
 
 Instructions:
 
-Day 3 challenge: 
+[Day 3 Challenge]: 
 
 Create a button with pygame module, plays a sound when clicked
 
@@ -23,4 +23,6 @@ Instructions:
 
 Download the 'day3_challenge' file and run the Python script (note: image and music files must be in the same folder with the .py file)
 
-day 4 challenge:
+[Day 4 Challenge]:
+
+Instructions: 
