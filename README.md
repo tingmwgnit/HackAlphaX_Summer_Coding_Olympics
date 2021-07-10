@@ -5,7 +5,7 @@ Members of team 37: Mia, Mannat, and Bhuv
 
 
 
-### Day 1 Challenge ###: 
+### Day 1 Challenge: 
 
 Objective: Create a text calculator that are capable of calculating +,-,*,/,^ between 2 numbers prompted from the user
 
@@ -13,7 +13,7 @@ Instructions:
 
 
 
-### Day 2 Challenge ###: 
+### Day 2 Challenge: 
 
 Objective: Update the day 1 calculator for more features, factorial and square root
 
@@ -21,7 +21,7 @@ Instructions:
 
 
 
-### Day 3 Challenge ###: 
+### Day 3 Challenge: 
 
 Objective: Create a button with pygame module, plays a sound when clicked
 
@@ -29,6 +29,6 @@ Instructions: Download the 'day3_challenge' file and run the Python script (note
 
 
 
-### Day 4 Challenge ###:
+### Day 4 Challenge:
 
 Instructions: 
