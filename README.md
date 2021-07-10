@@ -3,7 +3,7 @@
 
 Members of team 37: Mia, Mannat, and Bhuv
 
-Day 1 challenge: Create a text calculator that are capable of calculating +,-,*,/ between 2 numbers prompted from the user
+Day 1 challenge: Create a text calculator that are capable of calculating +,-,*,/,^ between 2 numbers prompted from the user
 
 Instructions:
 
