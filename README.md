@@ -15,7 +15,7 @@ Instructions:
 
 ### Day 2 Challenge: 
 
-Objective: Update the day 1 calculator for more features, factorial and square root
+Objective: Update the day 1 calculator for more features, such as factorial and square root
 
 Instructions:
 
