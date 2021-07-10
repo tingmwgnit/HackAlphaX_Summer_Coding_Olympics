@@ -21,7 +21,7 @@ Create a button with pygame module, plays a sound when clicked
 
 Instructions: 
 
-Download the 'day3_challenge' file and run the Python script (note: image and music files must be in the same folder with the .py file)
+Download the 'day3_challenge' file and run the Python script (note: image and music files must be in the same location as the .py file)
 
 [Day 4 Challenge]:
 
