@@ -1,7 +1,7 @@
 # HackAlphaX_Summer_Coding_Olympics
 4 projects for 4 challenges released during the Hackathon
 
-Team 37 members: Mia, Mannat, and Bhuv
+Members of team 37: Mia, Mannat, and Bhuv
 
 Day 1 challenge: Create a text calculator that are capable of calculating +,-,*,/ between 2 numbers prompted from the user
 Instructions:
