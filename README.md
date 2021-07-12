@@ -1,5 +1,5 @@
 # HackAlphaX_Summer_Coding_Olympics
-4 projects for 4 challenges released during the Hackathon
+4 projects for 4 challenges released each day during the Hackathon
 
 Members of team 37: Mia, Mannat, and Bhuv
 
