@@ -3,6 +3,8 @@
 
 Members of team 37: Mia, Mannat, and Bhuv
 
+4th place out of 19 teams
+
 
 
 ### Day 1 Challenge: 
